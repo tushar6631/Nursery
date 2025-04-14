@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vesoz.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://vesoz.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://vesoz.myshopify.com/blogs/news/tagged/land.atom"/>
+  <title>Vesoz - News</title>
+  <updated>2019-10-13T04:53:00-04:00</updated>
+  <author>
+    <name>Vesoz</name>
+  </author>
+  <entry>
+    <id>https://vesoz.myshopify.com/blogs/news/guide-to-house-plants-tips-for-growing-plants-indoors</id>
+    <published>2019-10-13T04:49:00-04:00</published>
+    <updated>2019-10-13T04:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://vesoz.myshopify.com/blogs/news/guide-to-house-plants-tips-for-growing-plants-indoors"/>
+    <title>Guide to House Plants - Tips for Growing Plants Indoors</title>
+    <author>
+      <name>Vesoz Admin</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed, ipsum deleniti repellendus nam deserunt vitae ullam amet quos! Nesciunt, quo. Lorem, ipsum dolor. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod, vitae numquam! Vitae alias ullam voluptatibus asperiores fugit ea soluta consectetur adipisci enim, impedit odit quisquam, ut, numquam voluptatem quas cum!</p>
+<blockquote>
+<p>ipsum deleniti repellendus nam deserunt vitae ullam amet quos! Nesciunt, quo. Lorem, ipsum dolor. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod, vitae numquam! VitaeLorem ipsum dolor sit amet consectetur adipisicing elit. Sed, ipsum deleniti repellendus nam deserunt vitae ullam amet quos! Nesciunt, quo. Lorem, ipsum dolor.</p>
+</blockquote>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod, vitae numquam! Vitae alias ullam voluptatibus asperiores fugit ea soluta consectetur adipisci enim, impedit odit quisquam, u Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed, ipsum deleniti repellendus nam deserunt vitae ullam amet quos! Nesciunt, quo. Lorem, ipsum dolor. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod, vitae numquam! Vitae alias ullam voluptatibus asperiores fugit ea soluta consectetur adipisci enim, impedit odit quisquam, ut, numquam voluptatem quas cum!</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed, ipsum deleniti repellendus nam deserunt vitae ullam amet quos! Nesciunt, quo. Lorem, ipsum dolor. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod, vitae numquam! Vitae alias ullam voluptatibus asperiores fugit ea soluta consectetur adipisci enim, impedit odit quisquam, ut, numquam voluptatem quas cum! repellendus nam deserunt vitae ullam amet quos! Nesciunt, quo. Lorem, ipsum dolor. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod, vitae numquam! Vitae alias ullam voluptatibus asperiores fugit ea soluta consectetur adipisci enim, impedit odit quisquam, ut, numquam voluptatem quas cum!</p>]]>
+    </content>
+  </entry>
+</feed>
